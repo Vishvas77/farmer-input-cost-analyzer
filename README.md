@@ -1,22 +1,5 @@
 <div align="center">
 
-```
-#####   ###   ####   #   #  #####  ####
-#      #   #  #   #  ## ##  #      #   #
-####   #####  ####   # # #  ####   ####
-#      #   #  #  #   #   #  #      #  #
-#      #   #  #   #  #   #  #####  #   #
-#####  #   #  ####   #   #  #####          ####   ###    ####  #####
-  #    ##  #  #   #  #   #    #           #      #   #  #        #
-  #    # # #  ####   #   #    #           #      #   #   ###     #
-  #    #  ##  #      #   #    #           #      #   #      #    #
-#####  #   #  #       ###     #            ####   ###   ####     #
- ###   #   #   ###   #      #   #  #####  #####  ####
-#   #  ##  #  #   #  #      #   #     #   #      #   #
-#####  # # #  #####  #       # #     #    ####   ####
-#   #  #  ##  #   #  #        #     #     #      #  #
-#   #  #   #  #   #  #####    #    #####  #####  #   #
-```
 
 ![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-3-lightgrey?logo=sqlite&logoColor=white)
@@ -27,17 +10,6 @@
 **The menu-driven Python + SQLite app that tells farmers where their money *actually* goes.**
 
 *No AI. No cloud. No frameworks. Just `if` statements with agricultural dreams.* 🌾
-
-```
-                        ____
-                 ______/    \______
-                /                  \
-                |   ___      ___   |
-                |  |   |    |   |  |
-                 \_|___|____|___|_/
-                    O          O
-              ~ the farm mobile ~
-```
 
 </div>
 
@@ -77,7 +49,7 @@ F05 Maize    |█████████████               | Rs.24,000
 F07 Cotton   |█████████████████████████   | Rs.45,000
 ```
 
-## 👹 Final Bosses: the cost categories
+##  the cost categories
 
 ```
 Seed        |███████████                 | Rs.36,500
